@@ -3,7 +3,7 @@
   <a href="https://abhinavsinghbohra.vercel.app/" target="_blank">abhinavsinghbohra.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./public/readme-img1.png" />
+  <img alt="Demo" src="./public/readme-img.png" />
 </div>
 
 <br/>
